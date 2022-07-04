@@ -67,8 +67,9 @@
 
 [View my Resume](https://drive.google.com/file/d/1E4pXgVt5TMaiyeC45wxBKRTnvBbvVO4b/view?usp=sharing) | [Portfolio](https://jruizsilva.netlify.app) -->
 
-[![Khatanna GitHub stats](https://github-readme-stats.vercel.app/api?username=Khatanna)](https://github.com/Khatanna)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khatanna)](https://github.com/Khatanna)
+[![Khatanna GitHub stats](https://github-readme-stats.vercel.app/api?username=Khatanna&theme=highcontrast)](https://github.com/Khatanna)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khatanna&theme=highcontrast)](https://github.com/Khatanna)
 
 <div align="center">
 
@@ -78,8 +79,6 @@ John Lasseter
 ```
 
 </div>
-
-![Snake animation](https://github.com/Khatanna/Khatanna/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <div align="center">
 
